@@ -47,3 +47,5 @@ print(type(address))
 
 print("ono hermano")
 
+print(type("ono hermano"))
+
