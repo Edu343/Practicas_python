@@ -43,3 +43,7 @@ address: str = "Mi dirección"
 address= 32
 print(address)
 print(type(address))
+
+
+print("ono hermano")
+
